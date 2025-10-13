@@ -1,0 +1,26 @@
+h1, h2, h3 {
+    text-align: center;
+}
+
+.pagewrapper {
+    max-width: 720px;
+    margin: auto;
+    background-color: rgba(206, 194, 223, 0.75);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.properties {
+    text-align: center;
+}
+
+body {
+    background-image: url(/images/Universe.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p {
+    padding: 0 20px 0 20px;
+}
