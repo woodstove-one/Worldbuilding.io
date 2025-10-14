@@ -15,7 +15,7 @@ h1, h2, h3 {
 }
 
 body {
-    background-image: url(/images/Universe.png);
+    background-image: url(./images/Universe.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -23,4 +23,5 @@ body {
 
 p {
     padding: 0 20px 0 20px;
+
 }
