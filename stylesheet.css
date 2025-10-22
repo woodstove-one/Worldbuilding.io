@@ -25,6 +25,10 @@ p {
     padding: 0 20px 0 20px;
 }
 
+ul {
+    list-style: none;
+}
+
 a {
     text-decoration: none;
     list-style-type: none;
@@ -32,4 +36,5 @@ a {
     border: 2px solid #000000;
     background-color: #7b68af;
     border-radius: 5px;
+    margin: 7px;
 }
