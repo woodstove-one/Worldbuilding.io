@@ -37,4 +37,13 @@ a {
     background-color: #7b68af;
     border-radius: 5px;
     margin: 7px;
+    color: #000000;
+}
+
+a:hover, a:focus, :active {
+    background-color: #a797d1;
+}
+
+a:visited {
+    background-color: #7b68af;
 }
