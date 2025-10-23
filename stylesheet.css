@@ -34,16 +34,16 @@ a {
     list-style-type: none;
     padding: 5px;
     border: 2px solid #000000;
-    background-color: #7b68af;
+    background-color: #AF97BA;
     border-radius: 5px;
     margin: 7px;
     color: #000000;
 }
 
-a:hover, a:focus, :active {
-    background-color: #a797d1;
+a:visited {
+    background-color: #AF97BA;
 }
 
-a:visited {
-    background-color: #7b68af;
+a:hover, a:focus, :active {
+    background-color: #6c6390;
 }
