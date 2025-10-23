@@ -44,6 +44,6 @@ a:visited {
     background-color: #AF97BA;
 }
 
-a:hover, a:focus, :active {
+a:hover, a:focus, a:active {
     background-color: #6c6390;
 }
