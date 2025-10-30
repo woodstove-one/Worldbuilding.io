@@ -29,7 +29,7 @@ ul {
     list-style: none;
 }
 
-li {
+nav ul li {
     padding: 10px;
 }
 
